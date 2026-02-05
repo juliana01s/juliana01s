@@ -33,9 +33,8 @@
 <div align="left">
   <h3>👩‍💻 About Me</h3>
   <p>
-  Sou estudante de Computação apaixonada por tecnologia. Atualmente estou focada em projetos em Python, <br> 
-  aprender coisas novas e colocar em prática o que aprendi durante o curso técnico. <br>
-  Estou sempre em busca de novos desafios!
+  Sou estudante de Computação apaixonada por tecnologia. Atualmente estou focada em projetos em Python, aprender 
+  coisas novas e colocar em prática o que aprendi durante o curso técnico. Estou sempre em busca de novos desafios!
   </p>
 </div>
 
