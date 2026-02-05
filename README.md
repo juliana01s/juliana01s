@@ -4,6 +4,8 @@
 
 ###
 
+<img align="right" height="150" src="minha-foto.jpg" alt="Foto de Perfil" />
+
 ###
 
 <div align="left">
@@ -33,9 +35,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliana01s/juliana01s/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliana01s/juliana01s/output/pacman-contribution-graph.svg">
-  <img alt="Pacman animation" src="https://raw.githubusercontent.com/juliana01s/juliana01s/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliana01s/juliana01s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliana01s/juliana01s/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/juliana01s/juliana01s/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
