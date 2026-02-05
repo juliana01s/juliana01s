@@ -46,6 +46,4 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/juliana01s/juliana01s/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 ###
