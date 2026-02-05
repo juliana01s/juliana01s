@@ -1,4 +1,6 @@
-<h2 align="left">Hello! My name is Juliana. I'm from Minas Gerais, Brazil.</h2>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&width=600&lines=Hello!+My+name+is+Juliana.;I'm+from+Minas+Gerais,+Brazil." alt="Typing SVG" />
+</div>
 
 ###
 
