@@ -4,8 +4,6 @@
 
 ###
 
-<img align="right" height="150" src="minha-foto.jpg" alt="Foto de Perfil" />
-
 ###
 
 <div align="left">
